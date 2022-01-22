@@ -28,8 +28,10 @@
                 android:text="News feed"
                 android:textStyle="bold"
                 android:textSize="20sp"
-                android:textColor="#03A9F4"
-                ></TextView>
+                android:textColor="#03A9F4">
+
+
+            </TextView>
 
         </RelativeLayout>
 
